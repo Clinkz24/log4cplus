@@ -56,3 +56,5 @@ x64/
 *.exe
 *.out
 *.app
+*.opendb
+msvc14/log4cplus.VC.db
